@@ -1,5 +1,5 @@
 {
-  "name": "eases",
+  "name": "eases-jsnext",
   "version": "1.0.10",
   "description": "grab bag of easing equations",
   "main": "dist/eases.umd.js",
@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattdesl/eases.git"
+    "url": "git://github.com/rollup/eases-jsnext.git"
   },
-  "homepage": "https://github.com/mattdesl/eases",
+  "homepage": "https://github.com/rollup/eases-jsnext",
   "bugs": {
-    "url": "https://github.com/mattdesl/eases/issues"
+    "url": "https://github.com/rollup/eases-jsnext/issues"
   },
   "keywords": [
     "ease",
